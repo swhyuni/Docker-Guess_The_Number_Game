@@ -3,7 +3,7 @@
 ## **Description:**
 Welcome to the simple game application "Guess the Number"! In this game, you have the opportunity to guess a number from 0 to 9 three times. You will be given chances to make sequential guesses, and the application will inform you if your guess is **TRUE or FALSE**. If you manage to guess the correct number, you will be the winner!
 
-# **How to Play:**
+## **How to Play:**
 1. Download the source code from this repository.
 2. Make sure you have Python and Docker installed on your system.
 3. Open a terminal or command prompt and navigate to the directory of this game application.
