@@ -13,9 +13,11 @@ Welcome to the simple game application "Guess the Number"! In this game, you hav
 python app.py
 ```
 Or in Docker 
+
 ```
 docker run -it yunisswh/my-game-yuni:v.0.0.1
 ```
+
 5. The application will prompt you to guess the first number from 0 to 9.
 6. Enter your guess and press Enter.
 7. The application will notify you if your guess is correct, too high, or too low.
