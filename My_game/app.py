@@ -4,7 +4,7 @@ import numpy as np
 def number_guessing_game():
     print('''
     Selamat datang dipermainan tebak angka
-    Silakan tebak angka 0-9 sebenyak 3 kqli      
+    Silakan tebak angka 0-9 sebenyak 3 kali      
     ''')
 
     computer_number = np.random.randint(0,9,3)
